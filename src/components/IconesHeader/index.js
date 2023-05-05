@@ -1,5 +1,6 @@
 import perfil from "../../image/perfil.svg";
 import sacola from "../../image/sacola.svg";
+import './estilo.css'
 
 const icones = [perfil, sacola];
 
